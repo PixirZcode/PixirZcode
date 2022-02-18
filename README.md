@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hAM
+- 👋 Hi, I’m HAM
 - 👀 I’m interested in ???
 - 🌱 I’m currently learning Flutter
 
