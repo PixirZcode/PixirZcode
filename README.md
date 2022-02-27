@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/intel-core%20i3%209100f-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Acer-gtx%20SA220QBbix 75Hz-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitor-SA220QBbix 75Hz-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 
