@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixirZcode&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PixirZcode&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PixirZcode&repo=github-readme-stats)](https://github.com/PixirZcode/github-readme-stats)
