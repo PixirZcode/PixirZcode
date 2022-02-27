@@ -35,7 +35,7 @@
 </details>-->
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/PixirZcode/PixirZcode"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/PixirZcode/PixirZcode"></a> Thank for visit o/
 </p>
 
 
