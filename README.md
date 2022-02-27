@@ -1,12 +1,1 @@
-# Install dependencies
-mix deps.get
-
-# Prepare ENV
-export GH_TOKEN=
-
-# Dry run, without committing
-mix run -e "ProfileUpdater.run(true)"
-cat output.md
-
-# Real run
-mix run -e "ProfileUpdater.run"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixirZcode)](https://github.com/PixirZcode/github-readme-stats)
