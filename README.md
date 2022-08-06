@@ -37,7 +37,7 @@
 </details>-->
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/PixirZcode/12-FourXCode"></a> Thank for visit o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/12-FourXCode/12-FourXCode"></a> Thank for visit o/
 </p>
 
 
