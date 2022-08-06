@@ -10,7 +10,7 @@
   
   <a href="https://www.facebook.com/ham.trplus/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;PixirZcode
   <a href="https://www.instagram.com/realllhxm/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
@@ -37,7 +37,7 @@
 </details>-->
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/12-FourXCode/12-FourXCode"></a> Thank for visit o/
+  <a href="#">Thank for visit o/</a>
 </p>
 
 
