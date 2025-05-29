@@ -17,10 +17,16 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=PixirZcode&show_icons=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixirZcode&layout=compact&theme=radical&langs_count=8" width="350"></a>
-</p>
+<table align='center'>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=PixirZcode&show_icons=true&theme=radical" width="350"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixirZcode&layout=compact&theme=radical&langs_count=8" width="350"/>
+    </td>
+  </tr>
+</table>
 
 <p align='center'>
   💻 My workspace<br/><br/>
